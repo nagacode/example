@@ -4,6 +4,7 @@ void main()
 
 {
 
-printf("Hai Naga!!\n");
+printf("Hai Naga!!");
+
 }
 
