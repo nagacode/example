@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include<iostream>
+=======
+#include<iostream.h>
+>>>>>>> 183609302c607703ba015465b40f0664ffc3f9a1
 using namespace std;
 
 int main()
